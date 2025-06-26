@@ -1,2 +1,2 @@
 # PacManGame
-This is my all favorite PacMan Game with the help of JAVA
+This is my all-time favorite Pac-Man game with the help of JAVA
